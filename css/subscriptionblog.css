@@ -79,6 +79,9 @@ body {
 	max-width:1280px;
 	box-shadow:0 0 0 1px rgba(68,68,68,0.1);
 }
+.subscribe {
+	margin-top:25px;
+}
 
 /* FOOTER STYLES */
 .footer-wrapper {
